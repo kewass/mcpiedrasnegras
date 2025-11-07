@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="puDaG4dLIk9sgoSy2lwcvugAG5FkNwc9hVbnzKB2">
+
+    <title>    Media Kit | Movimiento Ciudadano
+ - Movimiento-Ciudadano</title>
+    <meta name="description" content="    
+">
+    <meta name="keywords" content="">
+    <meta name="robots" content="Index, Follow">
+
+    <meta name="application-name" content="    Media Kit | Movimiento Ciudadano
+" />
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+
+    <link rel="shortcut icon" href="https://movimientociudadano.mx/images/favicon.png" type="image/png" />
+    <meta name="theme-color" content="#FFFFFF">
+
+    <meta http-equiv="Cache-Control" content="max-age=0, no-cache, no-store, private">
+
+    <!-- Facebook -->
+    <meta property="og:url" content="https://movimientociudadano.mx/logotipo" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="    Media Kit | Movimiento Ciudadano
+" />
+    <meta property="og:description" content="    
+" />
+    <meta property="og:image" content="        https://movimientociudadano.mx/images/postlink-mc.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="628" />
+    <meta property="og:locale:alternate" content="es_ES" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="https://movimientociudadano.mx/logotipo">
+    <meta name="twitter:title" content="    Media Kit | Movimiento Ciudadano
+">
+    <meta name="twitter:description" content="    
+">
+    <meta name="twitter:image:src" content="        https://movimientociudadano.mx/images/postlink-mc.jpg">
+
+    <!-- Google -->
+    <meta itemprop="name" content="    Media Kit | Movimiento Ciudadano
+">
+    <meta itemprop="description" content="    
+">
+    <meta itemprop="image" content="        https://movimientociudadano.mx/images/postlink-mc.jpg">
+
+    <!-- Scripts -->
+    <script src="https://movimientociudadano.mx/js/app.js" defer></script>
+
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+
+    <!-- Styles -->
+    <link href="https://movimientociudadano.mx/css/app.css" rel="stylesheet">
+
+		<!-- Metatags, styles, scripts -->
+		
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5FQ2T5L');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FQ2T5L"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="app">
+    <div class="top" id="top">
+        <div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-11">
+            <div class="row">
+                <div class="col-9">
+                    <a href="https://movimientociudadano.mx"><img src="https://movimientociudadano.mx/images/logos/logo-mc.svg" alt="Movimiento Ciudadano" class="top-logo" /></a>
+                                    </div>
+                <div class="col-3 text-right">
+                    <form action="https://movimientociudadano.mx/buscar/miresultado" method="GET">
+                        <input type="text" name="search" id="search" required />
+                        <input type="submit" id="search_submit" />
+                    </form>
+                    <img src="https://movimientociudadano.mx/images/top-menu.svg" alt="Menú" class="menu-show" />
+                    <div class="menu">
+                        <div class="row justify-content-center">
+                            <div class="col-10">
+                                <div class="buscador">
+                                   <div class="menu-buscador">
+                                        <form action="https://movimientociudadano.mx/buscar/miresultado" method="GET">
+                                            <input type="text" name="search" placeholder="Buscar" required />
+                                            <input type="submit" value="" class="menu-buscador_lupa" />
+                                        </form>
+                                    </div>
+                                    <div class="menu-close">
+                                        <img src="https://movimientociudadano.mx/images/icono-cruz-naranja.svg" alt="Cerrar menú" class="menu-close_button" />
+                                    </div>
+                                </div>
+                                <div class="menu-list">
+                                    <ul>
+                                        <li>
+                                            <a href="https://movimientociudadano.mx/nosotros">Nosotros</a>
+                                        </li>
+<!--                                        <li>
+                                            <a href="">Candidatos</a>
+                                        </li>-->
+                                        <li>
+                                            <a href="https://movimientociudadano.mx/yuawi">Yuawi</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://aguilalaserie.mx/" target="_blank">Águila, la serie animada</a>
+                                        </li>
+
+
+
+
+
+
+                                        <li>
+                                            <a href="https://movimientociudadano.mx/prensa">Prensa</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://movimientociudadano.mx/mapa-del-sitio">Mapa de sitio</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://transparencia.movimientociudadano.mx/" target="_blank">Transparencia</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://transparencia.movimientociudadano.mx/protecciondedatospersonales" target="_blank">Protección de Datos Personales</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="menu-social">
+                            <div class="row justify-content-center">
+                                <div class="col-10">
+                                    <div class="menu-social_title">Síguenos</div>
+                                    <div class="menu-social_icons">
+                                        <ul>
+                                                                                            <li>
+                                                    <a href="https://www.facebook.com/MovCiudadanoMX/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a href="https://www.instagram.com/movciudadanomx/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a href="https://twitter.com/MovCiudadanoMX" target="_blank"><i class="fab fa-twitter"></i></a>
+                                                </li>
+                                                                                                                                        <li>
+                                                    <a href="https://youtube.com/user/MovCiudadanoMX" target="_blank"><i class="fab fa-youtube"></i></a>
+                                                </li>
+                                                                                                                                                                                            <li>
+                                                        <a href="https://t.me/MovCiudadanoMX" target="_blank"><i class="fab fa-telegram-plane"></i></a>
+                                                    </li>
+                                                                                                                                                    <li>
+                                                        <a href="https://www.tiktok.com/@movciudadanomx" target="_blank"><i class="fab fa-tiktok"></i></a>
+                                                    </li>
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <main>
+        
+    
+    <div class="header-interno_small">
+        <div class="header-interno_small-gradient"></div>
+        <div class="header-interno_small-points">
+            <img src="https://movimientociudadano.mx/images/puntos-header-blancos.svg" />
+        </div>
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-lg-10 col-11">
+                    <div class="header-interno_small-subtitle">
+                        Prensa
+                    </div>
+                    <div class="header-interno_small-title">
+                        Media Kit
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="b-dots_intern mt-5 pt-5">
+        <div class="container-fluid pt-5">
+            <div class="row justify-content-center">
+                <div class="col-10">
+                    <div class="subtitles">Descarga el</div>
+                    <div class="titles">Logotipo</div>
+                    <div class="row">
+                        <div class="description col-lg-5 col-12">Aquí puedes encontrar y descargar nuestro logotipo en versión PNG, PDF y AI.</div>
+                    </div>
+                    <div class="row mt-4 space-bottom130">
+                        <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-5">
+        <div class="box">
+            <a href="https://movimientociudadano.mx/images/mediakit/logoMCN.png"  target="_blank" >
+                <div class="box-radius box-shadow20">
+                    <div class="cards-box-people_arrow">
+                        <i class="fas fa-download"></i>
+                    </div>
+                    <div class="box-radius_img">
+                        <img src="https://movimientociudadano.mx/images/mediakit/img-mediakit-logo-png.jpg" alt="Versión PNG" class="img-fluid obj-fit" />
+                    </div>
+                    <div class="box-radius_title">
+                        Versión PNG
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+                            <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-5">
+        <div class="box">
+            <a href="https://movimientociudadano.mx/pdf/logoMCN.pdf"  target="_blank" >
+                <div class="box-radius box-shadow20">
+                    <div class="cards-box-people_arrow">
+                        <i class="fas fa-download"></i>
+                    </div>
+                    <div class="box-radius_img">
+                        <img src="https://movimientociudadano.mx/images/mediakit/img-mediakit-logo-ai-pdf.jpg" alt="Versión PDF" class="img-fluid obj-fit" />
+                    </div>
+                    <div class="box-radius_title">
+                        Versión PDF
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+                            <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-5">
+        <div class="box">
+            <a href="https://movimientociudadano.mx/images/mediakit/logoMCN.ai"  target="_blank" >
+                <div class="box-radius box-shadow20">
+                    <div class="cards-box-people_arrow">
+                        <i class="fas fa-download"></i>
+                    </div>
+                    <div class="box-radius_img">
+                        <img src="https://movimientociudadano.mx/images/mediakit/img-mediakit-logo-ai-pdf.jpg" alt="Versión AI" class="img-fluid obj-fit" />
+                    </div>
+                    <div class="box-radius_title">
+                        Versión AI
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </main>
+
+    <div>
+        <section class="container-fluid">
+    <div class="row justify-content-center footer">
+        <div class="col-lg-11 col-12">
+            <div class="row justify-content-center my-5 text-white-0">
+                <div class="col-lg-4 col-12">
+                    <div class="row mx-1  my-lg-0 my-5">
+                        <img src="https://movimientociudadano.mx/images/logos/logo-footer-mc.svg" alt="logo movimiento ciudadano">
+                    </div>
+                    <div class="row my-lg-3 my-4">
+                        <div class="col-lg-8 col-8">
+                            <div class="row">
+                                                                <div class="col">
+                                    <a href="https://www.facebook.com/MovCiudadanoMX/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                </div>
+                                                                                                <div class="col">
+                                    <a href="https://www.instagram.com/movciudadanomx/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                </div>
+                                                                                                <div class="col">
+                                    <a href="https://twitter.com/MovCiudadanoMX" target="_blank"><i class="fab fa-twitter"></i></a>
+                                </div>
+                                                                                                <div class="col">
+                                    <a href="https://youtube.com/user/MovCiudadanoMX" target="_blank"><i class="fab fa-youtube"></i></a>
+                                </div>
+                                                                                                                                            <div class="col">
+                                            <a href="https://t.me/MovCiudadanoMX" target="_blank"><i class="fab fa-telegram-plane"></i></a>
+                                        </div>
+                                                                                                                <div class="col">
+                                            <a href="https://www.tiktok.com/@movciudadanomx" target="_blank"><i class="fab fa-tiktok"></i></a>
+                                        </div>
+                                                                </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-8 col-10 mt-2">
+                            <strong>Dirección:</strong>
+                            <p>Louisiana No. 113 esq. Nueva York, Nápoles, Del. Benito Juárez., 3810, D.F.</p>
+                        </div>
+                    </div>
+                                        <div class="row">
+                        <div class="col-lg-8 col-10">
+                            <strong>Teléfono:</strong>
+                            <p>(01 55) 1167-6767</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-8 col-10">
+                            <strong>Correo:</strong>
+                            <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ceada1a0baafadbaa18ea3a1b8a7a3a7aba0baa1ada7bbaaafaaafa0a1e0a3b6">[email&#160;protected]</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg col-md-6 col-12 px-5 px-lg-0">
+                        <ul class="px-0 my-0 my-lg-5">
+                            <li class="my-3"><strong>Nosotros</strong></li>
+                            <a href="https://movimientociudadano.mx/nosotros"><li>Nuestra Historia</li></a>
+                            <a href="https://movimientociudadano.mx/documentos-basicos"><li>Documentos Básicos</li></a>
+                            <a href="https://movimientociudadano.mx/reglamentos"><li>Reglamentos</li></a>
+                            <a href="https://movimientociudadano.mx/pdf/2024-04-03-MC-Sintesis.pdf" target="_blank"><li>Síntesis Plataforma Electoral 2024</li></a>
+                            <li class="my-3 pt-4"><strong>Estructura</strong></li>
+                            <a href="https://archivo.movimientociudadano.mx/sesiones?taxonomy_vocabulary_10_tid=50" target="_blank"><li>Comisión Permanente</li></a>
+                            <a href="https://movimientociudadano.mx/convencion-nacional-democratica" target="_blank"><li>Convención</li></a>
+                            <a href="https://archivo.movimientociudadano.mx/consejo-nacional" target="_blank"><li>Consejo</li></a>
+                            <a href="https://archivo.movimientociudadano.mx/coordinadora-ciudadana-nacional" target="_blank"><li>Coordinadora</li></a>
+                            <a href="https://movimientociudadano.mx/padron-de-afiliados"><li>Padrón de Afiliados</li></a>
+                        </ul>
+                    </div>
+                <div class="col-lg col-md-6 col-12 px-5">
+                        <ul class=" px-0 my-5 my-lg-5">
+                            <li class="my-3"><strong>Directorio</strong></li>
+                            <a href="https://movimientociudadano.mx/directorio-nacional"><li>Nacional</li></a>
+                            <a href="https://movimientociudadano.mx/directorio-estatal"><li>Estatal</li></a>
+                            <li class="my-3 pt-4"><strong>Movimientos</strong></li>
+                            <a href="https://movimientociudadano.mx/movimientos-sociales"><li>Nuestros movimientos</li></a>
+                            <li class="my-3"><strong>Nobis</strong></li>
+                            <a href="https://movimientociudadano.mx/nobis"><li>Acerca de</li></a>
+                            <a href="https://movimientociudadano.mx/nobis/articulos"><li>Artículos</li></a>
+                            <a href="https://movimientociudadano.mx/nobis/revistas"><li>Revistas</li></a>
+                            <a href="https://movimientociudadano.mx/nobis/contacto"><li>Contacto</li></a>
+                            <a href="https://movimientociudadano.mx/nobis/gacetas"><li>Gacetas</li></a>
+                        </ul>
+                    </div>
+                <div class="col-lg col-md-6 col-12 px-5 px-lg-1">
+                        <ul class="px-0 my-0 my-lg-5">
+                            <li class="my-3"><strong>Notificaciones</strong></li>
+                            <a href="https://movimientociudadano.mx/dictamenes"><li>Dictámenes</li></a>
+                            <a href="https://movimientociudadano.mx/avisos"><li>Avisos</li></a>
+                            <a href="https://movimientociudadano.mx/acuerdos"><li>Acuerdos</li></a>
+                            <a href="https://movimientociudadano.mx/convocatorias"><li>Convocatorias</li></a>
+                            <a href="https://movimientociudadano.mx/formatos"><li>Formatos</li></a>
+                            <a href="https://movimientociudadano.mx/estrados-digitales"><li>Estrados Digitales</li></a>
+                            <li class="my-3"><strong>Fondo documental</strong></li>
+                            <a href="https://movimientociudadano.mx/fondo-documental/cortometrajes"><li>Cortometrajes</li></a>
+                            <a href="https://movimientociudadano.mx/fondo-documental/libros"><li>Libros</li></a>
+                            <a href="https://movimientociudadano.mx/fondo-documental/investigaciones"><li>Investigaciones</li></a>
+                            <a href="https://movimientociudadano.mx/fondo-documental/tareas-editoriales"><li>Tareas editoriales</li></a>
+                        </ul>
+                    </div>
+                <div class="col-lg col-md-6 col-12 px-5">
+                    <ul class="px-0 my-0 my-lg-5">
+                        <li class="my-3"><strong>Prensa</strong></li>
+                        <a href="https://movimientociudadano.mx/prensa?tipo_id=1"><li>Noticias</li></a>
+                        <a href="https://movimientociudadano.mx/prensa?tipo_id=2"><li>Réplica de medios</li></a>
+                        <a href="https://movimientociudadano.mx/prensa?tipo_id=3"><li>Boletines</li></a>
+                        <a href="https://movimientociudadano.mx/prensa?tipo_id=4"><li>Editoriales</li></a>
+                        <a href="https://movimientociudadano.mx/logotipo"><li>Media Kit</li></a>
+                        <li class="my-3 pt-4"><strong><a href="https://transparencia.movimientociudadano.mx/" target="_blank" class="solid">Transparencia</a></strong></li>
+<!--                        <a href="https://transparencia.movimientociudadano.mx/unidad-de-datos-personales-de-movimiento-ciudadano" target="_blank"><li>Protección de datos personales</li></a>-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="container-fluid">
+    <div class="row pol-pri">
+        <div class="col text-center my-2">
+            <a href="https://transparencia.movimientociudadano.mx/protecciondedatospersonales" target="_blank">Aviso de Privacidad</a>
+        </div>
+    </div>
+</section>
+    </div>
+</div>
+<!-- Google Code for Etiqueta de remarketing: -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 993850058;
+    var google_conversion_label = "l1ROCP7H3wQQyuXz2QM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993850058/?value=0&amp;label=l1ROCP7H3wQQyuXz2QM&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+<!-- scripts -->
+</body>
+</html>
